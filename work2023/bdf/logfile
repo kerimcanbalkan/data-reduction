@@ -1,0 +1,115 @@
+10110700000+3649BIA000C0010.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C001.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C002.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C003.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C004.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C005.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C006.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C007.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C008.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+10110700000+3649BIA000C009.fit: Nov  2 13:52 Trim data section is [4:2044,4:2044]
+
+Nov  2 13:55: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  10110700000+3649BIA000C0010.fit
+  10110700000+3649BIA000C001.fit
+  10110700000+3649BIA000C002.fit
+  10110700000+3649BIA000C003.fit
+  10110700000+3649BIA000C004.fit
+  10110700000+3649BIA000C005.fit
+  10110700000+3649BIA000C006.fit
+  10110700000+3649BIA000C007.fit
+  10110700000+3649BIA000C008.fit
+  10110700000+3649BIA000C009.fit
+
+  Output image = Zero, ncombine = 10
+10110700000+3649DAR060C0010.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C0010.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C001.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C001.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C002.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C002.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C003.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C003.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C004.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C004.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C005.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C005.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C006.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C006.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C007.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C007.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C008.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C008.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+10110700000+3649DAR060C009.fit: Nov  2 14:07 Trim data section is [4:2044,4:2044]
+10110700000+3649DAR060C009.fit: Nov  2 14:07 Zero level correction image is Zero.fits
+
+Nov  2 14:08: IMCOMBINE
+  combine = median, scale = exposure, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  10110700000+3649DAR060C0010.fit
+  10110700000+3649DAR060C001.fit
+  10110700000+3649DAR060C002.fit
+  10110700000+3649DAR060C003.fit
+  10110700000+3649DAR060C004.fit
+  10110700000+3649DAR060C005.fit
+  10110700000+3649DAR060C006.fit
+  10110700000+3649DAR060C007.fit
+  10110700000+3649DAR060C008.fit
+  10110700000+3649DAR060C009.fit
+
+  Output image = Dark60, ncombine = 10
+10110700000+3649FLA001C0010.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C0010.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C0010.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C001.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C001.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C001.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C002.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C002.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C002.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C003.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C003.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C003.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C004.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C004.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C004.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C005.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C005.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C005.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C006.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C006.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C006.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C007.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C007.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C007.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C008.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C008.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C008.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+10110700000+3649FLA001C009.fit: Nov  2 14:12 Trim data section is [4:2044,4:2044]
+10110700000+3649FLA001C009.fit: Nov  2 14:12 Zero level correction image is Zero.fits
+10110700000+3649FLA001C009.fit: Nov  2 14:12 Dark count correction image is Dark1.fits with scale=0.01666667
+
+Nov  2 14:13: IMCOMBINE
+  combine = median, scale = mode, zero = none, weight = none
+  reject = avsigclip, mclip = yes, nkeep = 1
+  lsigma = 3., hsigma = 3.
+  blank = 1.
+                Images     Mode  Scale
+  10110700000+3649FLA001C0010.fit  21104.  0.892
+  10110700000+3649FLA001C001.fit  19904.  0.946
+  10110700000+3649FLA001C002.fit  19035.  0.989
+  10110700000+3649FLA001C003.fit  18240.  1.032
+  10110700000+3649FLA001C004.fit  17520.  1.075
+  10110700000+3649FLA001C005.fit  16680.  1.129
+  10110700000+3649FLA001C006.fit  17619.  1.069
+  10110700000+3649FLA001C007.fit  18566.  1.014
+  10110700000+3649FLA001C008.fit  19439.  0.969
+  10110700000+3649FLA001C009.fit  20213.  0.932
+
+  Output image = Flat, ncombine = 10

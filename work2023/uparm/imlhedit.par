@@ -1,0 +1,10 @@
+images,s,a,"@olist.txt",,,"images to be edited"
+fields,s,a,"imagetyp",,,"fields to be edited"
+value,s,a,"object",,,"value expression"
+add,b,h,yes,,,"add rather than edit fields"
+addonly,b,h,yes,,,"add only if field does not exist"
+delete,b,h,no,,,"delete rather than edit fields"
+verify,b,h,yes,,,"verify each edit operation"
+show,b,h,yes,,,"print record of each edit operation"
+update,b,h,yes,,,"enable updating of the image header"
+mode,s,h,"ql",,,

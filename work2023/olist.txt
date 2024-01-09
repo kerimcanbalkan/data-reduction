@@ -1,0 +1,10 @@
+img02.fit
+img03.fit
+img04.fit
+img05.fit
+img06.fit
+img07.fit
+img08.fit
+img09.fit
+img10.fit
+img22.fit

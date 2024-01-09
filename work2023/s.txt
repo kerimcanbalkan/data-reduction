@@ -1,0 +1,10 @@
+simg02.fit
+simg03.fit
+simg04.fit
+simg05.fit
+simg06.fit
+simg07.fit
+simg08.fit
+simg09.fit
+simg10.fit
+simg22.fit
